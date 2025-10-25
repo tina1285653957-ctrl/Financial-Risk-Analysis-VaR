@@ -1,7 +1,7 @@
 # 📊 Financial Risk Analysis — VaR Toolkit  
 **by Lyra**
 
-![VaR Toolkit Cover](./figures/var_comparison_1d_95.png)
+![VaR Toolkit Cover](./figures/cover.png)
 
 ---
 
