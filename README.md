@@ -2,7 +2,7 @@
 **by Lyra**
 
 <p align="center">
-  <img src="./figures/cover.png" alt="VaR Toolkit Cover" width="750"/>
+  <img src="D:\GitHub\Financial-Risk-Analysis-VaR\figures\cover.png.png" alt="VaR Toolkit Cover" width="750"/>
 </p>
 
 ---
