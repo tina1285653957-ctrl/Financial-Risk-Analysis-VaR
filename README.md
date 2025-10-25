@@ -12,7 +12,7 @@ A **reusable Value-at-Risk (VaR) toolkit** built for financial engineers and ana
 The notebook implements **Parametric**, **Historical Simulation**, and **Monte Carlo** VaR models,  
 along with **Expected Shortfall (ES)** and **basic backtesting**, using `yfinance` as the default data source.
 
-It is designed for **real-world research**, not just coursework — adaptable, lightweight, and fully reproducible.
+It is designed for **real-world research**, lightweight, and fully reproducible.
 
 ---
 
