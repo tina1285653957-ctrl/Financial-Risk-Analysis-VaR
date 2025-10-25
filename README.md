@@ -15,13 +15,13 @@ It is designed for **real-world research**, not just coursework — adaptable, l
 ---
 
 ## ⚙️ Key Features
-- 🧩 **Modular design** — change only symbol or date window to reuse.  
-- 🌐 **Default: yfinance**, optional TuShare or CSV fallback.  
-- 📈 **Three VaR models** — Parametric, Historical Simulation, Monte Carlo.  
-- 📉 **Expected Shortfall (ES)** calculation and annualized metrics.  
-- 🔍 **Backtesting** — 95% exceedance frequency by year.  
-- 🧮 **Auto-export** — results → `outputs/summary.csv`, figures → `figures/`.  
-- 💼 **Practical tone** — clean codebase, built for portfolio use.
+-  **Modular design** — change only symbol or date window to reuse.  
+-  **Default: yfinance**, optional TuShare or CSV fallback.  
+-  **Three VaR models** — Parametric, Historical Simulation, Monte Carlo.  
+-  **Expected Shortfall (ES)** calculation and annualized metrics.  
+-  **Backtesting** — 95% exceedance frequency by year.  
+-  **Auto-export** — results → `outputs/summary.csv`, figures → `figures/`.  
+-  **Practical tone** — clean codebase, built for portfolio use.
 
 ---
 
